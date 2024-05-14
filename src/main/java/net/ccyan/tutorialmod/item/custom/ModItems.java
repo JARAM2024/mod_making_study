@@ -28,6 +28,15 @@ public class ModItems {
     public static final RegistryObject<Item> SAPPHIRE_HOE = Items.register("sapphire_hoe",
             () -> new HoeItem(ModToolTiers.SAPPHIRE, 0,0, new Item.Properties()));
 
+    public static final RegistryObject<Item> SAPPHIRE_HELMET  = Items.register("sapphire_helmet",
+            () -> new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.HELMET, new Item.Properties()));
+    public static final RegistryObject<Item> SAPPHIRE_CHESTPLATE  = Items.register("sapphire_chestplate",
+            () -> new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.CHESTPLATE, new Item.Properties()));
+    public static final RegistryObject<Item> SAPPHIRE_LEGGINGS  = Items.register("sapphire_leggings",
+            () -> new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.LEGGINGS, new Item.Properties()));
+    public static final RegistryObject<Item> SAPPHIRE_BOOTS  = Items.register("sapphire_boots",
+            () -> new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.BOOTS, new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         Items.register(eventBus);
     }

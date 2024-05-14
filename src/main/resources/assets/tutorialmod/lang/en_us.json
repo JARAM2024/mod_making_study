@@ -9,5 +9,12 @@
   "item.tutorialmod.sapphire_shovel": "Sapphire Shovel",
   "item.tutorialmod.sapphire_hoe": "Sapphire Hoe",
 
+
+  "item.tutorialmod.sapphire_helmet": "Sapphire Helmet",
+  "item.tutorialmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.tutorialmod.sapphire_leggings": "Sapphire Leggings",
+  "item.tutorialmod.sapphire_boots": "Sapphire Boots",
+
+
   "creativetab.tutorial_tab": "Custom Mod Tab"
 }
