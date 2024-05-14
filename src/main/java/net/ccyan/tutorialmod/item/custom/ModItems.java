@@ -23,7 +23,7 @@ public class ModItems {
             () -> new PickaxeItem(ModToolTiers.SAPPHIRE, 1,1, new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE_AXE = Items.register("sapphire_axe",
             () -> new AxeItem(ModToolTiers.SAPPHIRE, 7,1, new Item.Properties()));
-    public static final RegistryObject<Item> SAPPHIRE_SHOVEL = Items.register("sapphire_shovel.json",
+    public static final RegistryObject<Item> SAPPHIRE_SHOVEL = Items.register("sapphire_shovel",
             () -> new ShovelItem(ModToolTiers.SAPPHIRE, 0,0, new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE_HOE = Items.register("sapphire_hoe",
             () -> new HoeItem(ModToolTiers.SAPPHIRE, 0,0, new Item.Properties()));
