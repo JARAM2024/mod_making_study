@@ -1,6 +1,0 @@
-{
-  "parent": "tutorialmod:block/sapphire_shovel",
-  "textures": {
-    "layer0": "tutorialmod:item/sapphire_shovel"
-  }
-}

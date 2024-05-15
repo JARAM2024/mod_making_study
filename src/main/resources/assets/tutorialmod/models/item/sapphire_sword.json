@@ -1,6 +1,0 @@
-{
-  "parent": "tutorialmod:block/sapphire_sword",
-  "textures": {
-    "layer0": "tutorialmod:item/sapphire_sword"
-  }
-}
