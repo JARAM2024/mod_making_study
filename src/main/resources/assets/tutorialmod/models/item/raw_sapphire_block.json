@@ -1,0 +1,6 @@
+{
+  "parent": "tutorialmod:block/raw_sapphire_block",
+  "textures": {
+    "layer0": "tutorialmod:item/raw_sapphire_block"
+  }
+}
