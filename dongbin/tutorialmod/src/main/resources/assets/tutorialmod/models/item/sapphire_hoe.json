@@ -1,0 +1,6 @@
+{
+  "parent": "tutorialmod:block/sapphire_hoe",
+  "textures": {
+    "layer0": "tutorialmod:item/sapphire_hoe"
+  }
+}

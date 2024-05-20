@@ -1,0 +1,6 @@
+{
+  "parent": "tutorialmod:block/deepslate_sapphire_ore",
+  "textures": {
+    "layer0": "tutorialmod:item/deepslate_sapphire_ore"
+  }
+}
